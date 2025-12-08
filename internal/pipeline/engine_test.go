@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/temirov/llm-tasks/internal/pipeline"
+	"github.com/tyemirov/llm-tasks/internal/pipeline"
 )
 
 type fakeClient struct {

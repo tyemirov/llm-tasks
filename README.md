@@ -6,7 +6,7 @@ Tasks are declared in `config.yaml` and executed through a simple CLI.
 ## Installation
 
 ```bash
-git clone https://github.com/temirov/llm-tasks.git
+git clone https://github.com/tyemirov/llm-tasks.git
 cd llm-tasks
 go build -o llm-tasks ./cmd/llm-tasks
 ```

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/temirov/llm-tasks/internal/pipeline"
+	"github.com/tyemirov/llm-tasks/internal/pipeline"
 )
 
 func (t *Task) applyMovePlan(plan MovePlan) (pipeline.ApplyReport, error) {

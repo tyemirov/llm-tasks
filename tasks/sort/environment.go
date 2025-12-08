@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/temirov/llm-tasks/internal/config"
+	"github.com/tyemirov/llm-tasks/internal/config"
 )
 
 const (

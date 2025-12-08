@@ -3,7 +3,7 @@ package sort
 import (
 	"fmt"
 
-	"github.com/temirov/llm-tasks/internal/config"
+	"github.com/tyemirov/llm-tasks/internal/config"
 )
 
 type UnifiedSortConfigProvider struct {

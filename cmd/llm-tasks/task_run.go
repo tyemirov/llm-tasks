@@ -8,11 +8,11 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/temirov/llm-tasks/internal/config"
-	"github.com/temirov/llm-tasks/internal/llm"
-	"github.com/temirov/llm-tasks/internal/pipeline"
-	changelogtask "github.com/temirov/llm-tasks/tasks/changelog"
-	sorttask "github.com/temirov/llm-tasks/tasks/sort"
+	"github.com/tyemirov/llm-tasks/internal/config"
+	"github.com/tyemirov/llm-tasks/internal/llm"
+	"github.com/tyemirov/llm-tasks/internal/pipeline"
+	changelogtask "github.com/tyemirov/llm-tasks/tasks/changelog"
+	sorttask "github.com/tyemirov/llm-tasks/tasks/sort"
 )
 
 type pipelineBuilder func(root config.Root, recipe config.Recipe) (pipeline.Pipeline, error)

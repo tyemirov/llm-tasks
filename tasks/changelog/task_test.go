@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/temirov/llm-tasks/internal/pipeline"
-	changelog "github.com/temirov/llm-tasks/tasks/changelog"
+	"github.com/tyemirov/llm-tasks/internal/pipeline"
+	changelog "github.com/tyemirov/llm-tasks/tasks/changelog"
 )
 
 const cfgYAML = `

@@ -8,9 +8,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/temirov/llm-tasks/internal/config"
-	"github.com/temirov/llm-tasks/internal/fsops"
-	"github.com/temirov/llm-tasks/internal/pipeline"
+	"github.com/tyemirov/llm-tasks/internal/config"
+	"github.com/tyemirov/llm-tasks/internal/fsops"
+	"github.com/tyemirov/llm-tasks/internal/pipeline"
 )
 
 type Task struct {

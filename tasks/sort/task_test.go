@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/temirov/llm-tasks/internal/pipeline"
-	sorttask "github.com/temirov/llm-tasks/tasks/sort"
+	"github.com/tyemirov/llm-tasks/internal/pipeline"
+	sorttask "github.com/tyemirov/llm-tasks/tasks/sort"
 )
 
 // --- helpers ---

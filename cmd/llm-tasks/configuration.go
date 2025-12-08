@@ -3,7 +3,7 @@ package llmtasks
 import (
 	"fmt"
 
-	"github.com/temirov/llm-tasks/internal/config"
+	"github.com/tyemirov/llm-tasks/internal/config"
 )
 
 func loadRootConfiguration(configurationPath string) (config.Root, error) {

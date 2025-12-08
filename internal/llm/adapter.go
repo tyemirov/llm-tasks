@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/temirov/llm-tasks/internal/pipeline"
+	"github.com/tyemirov/llm-tasks/internal/pipeline"
 )
 
 type Adapter struct {

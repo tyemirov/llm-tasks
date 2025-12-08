@@ -1,4 +1,4 @@
-module github.com/temirov/llm-tasks
+module github.com/tyemirov/llm-tasks
 
 go 1.25.1
 

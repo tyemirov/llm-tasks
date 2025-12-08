@@ -13,8 +13,8 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/temirov/llm-tasks/internal/config"
-	"github.com/temirov/llm-tasks/internal/pipeline"
+	"github.com/tyemirov/llm-tasks/internal/config"
+	"github.com/tyemirov/llm-tasks/internal/pipeline"
 )
 
 // Make the task's Config exactly the same type as config.ChangelogConfig.

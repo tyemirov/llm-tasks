@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	llmtasks "github.com/temirov/llm-tasks/cmd/llm-tasks"
+	llmtasks "github.com/tyemirov/llm-tasks/cmd/llm-tasks"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/temirov/llm-tasks/internal/config"
+	"github.com/tyemirov/llm-tasks/internal/config"
 )
 
 // (Kept for modularity if you want to split later. Currently, main helpers live in task.go.)

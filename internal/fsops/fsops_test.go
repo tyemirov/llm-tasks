@@ -3,7 +3,7 @@ package fsops_test
 import (
 	"testing"
 
-	"github.com/temirov/llm-tasks/internal/fsops"
+	"github.com/tyemirov/llm-tasks/internal/fsops"
 )
 
 func TestInventoryAndOps_InMemory(t *testing.T) {

@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	llmtasks "github.com/temirov/llm-tasks/cmd/llm-tasks"
+	llmtasks "github.com/tyemirov/llm-tasks/cmd/llm-tasks"
 	"go.uber.org/zap"
 )
 
